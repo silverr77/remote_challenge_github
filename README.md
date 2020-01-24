@@ -1,9 +1,7 @@
 # remote_challenge_github
 
 <h3>Technical spec</h3>
-<ul>
-  <ol>Javascript native</ol>
-</ul>
+Javascript native
 <h3>Front-end</h3>
 I used the MaterialKit template to get up and running quicly
 
