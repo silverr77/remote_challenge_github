@@ -1,5 +1,8 @@
 # remote_challenge_github
 
+<h2>Live Server</h2>
+i deployed the script in <strong>Heroku</strong> : https://challenge1remote1khalid.herokuapp.com/
+
 <h3>Technical spec</h3>
 Javascript native
 <h3>Front-end</h3>
