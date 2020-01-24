@@ -1,0 +1,55 @@
+<!--
+    this app developed by bouhouch khalid
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>challenge app Github</title>
+  <link href="https://fonts.googleapis.com/css?family=Dosis:400,700" rel="stylesheet">
+  <link href="styles/style.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+  <link href="styles/material-kit.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
+
+</head>
+
+<body>
+
+    
+
+
+    <div class="waiting" id="waiting">
+        <img height="50" width="50" src="loading.gif">
+    </div>
+
+    <div class="main main-raised mt-4">
+        <div class="container">
+            <div class="section text-center">
+                <h2 class="title">Find The Trending Languages</h2>
+                <div  class="container myContent">
+                    <ul class="nav nav-pills justify-content-center" role="tablist" id="tabs-links">
+                        <li class="nav-item">
+                            <button class="nav-link active" id="trending">Trending Languages</button>
+                        </li>
+                        <li class="nav-item">
+                            <button class="nav-link" id="Statistique">Statistiques</button>
+                            
+                        </li>
+                    </ul>
+                    </div>
+                    <div id="root" class="here"></div>
+                    <canvas class="mt-4" id="myChart"></canvas>
+                    </div>
+                    </div>
+    </div>
+
+    
+
+  <script src="scripts/scripts.js"></script>
+</body>
+
+</html>
