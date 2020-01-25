@@ -3,7 +3,7 @@
 <h2>Live Server</h2>
 i deployed the script in <strong>Heroku</strong> : https://challenge1remote1khalid.herokuapp.com/
 <h2>Watch the illustration video</h>
-<a href="https://www.youtube.com/watch?v=EXJvfEBb7b0&feature=youtu.be">Click Here To watch the video</a>
+<a href="https://youtu.be/8n65F0fLgxo">Click Here To watch the video</a>
 <h3>Technical spec</h3>
 Javascript native
 <h3>Front-end</h3>
