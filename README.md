@@ -11,7 +11,8 @@ I used the MaterialKit template to get up and running quicly
 
 <h3>Github API</h3>
 github provides developpers, throught there search API. 
-
+to get the 100 trending repos : 
+https://api.github.com/search/repositories?q=page=0&per_page=100&sort=stars&order=desc
 <h3>Features</h3>
 Develop a REST microservice that list the languages used by the 100 trending public repos on GitHub.
 For every language, you need to calculate the attributes below 👇:
